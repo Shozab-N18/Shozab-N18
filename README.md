@@ -30,7 +30,7 @@ Feel free to connect or reach out via [LinkedIn](https://linkedin.com/in/shozaba
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shozab-N18&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shozab-N18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200px"/>
 </p>
 
