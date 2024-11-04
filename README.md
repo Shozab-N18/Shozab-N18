@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, I'm Shozab – a motivated Computer Science graduate passionate about developing scalable applications and embracing challenges as opportunities for growth. I thrive on solving complex problems through code, with hands-on experience in both front-end and back-end development. Throughout my university journey, I developed a solid foundation in programming languages like Java, JavaScript, Python and C++, as well as frameworks such as React, Django, and Node.js.
+Hi, I'm Shozab – a motivated Computer Science graduate, passionate about developing scalable applications and embracing challenges as opportunities for growth. I thrive on solving complex problems through code, with hands-on experience in both front-end and back-end development. Throughout my university journey, I developed a solid foundation in programming languages like Java, JavaScript, Python and C++, as well as frameworks such as React, Django, and Node.js.
 
 Working in versatile teams, I've played a key role in developing full-stack applications that prioritize user engagement and functionality. I'm particularly interested in roles that foster growth as a full-stack software engineer and allow for collaboration on impactful solutions.
 
